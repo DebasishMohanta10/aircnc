@@ -1,1 +1,2 @@
-# AirCnC Website made using HTML and CSS.
+# AirCnC Responsive Website made using HTML and CSS.
+- Developed by @DebasishMohanta
